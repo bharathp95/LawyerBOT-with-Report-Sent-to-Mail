@@ -1,0 +1,36 @@
+INFO:mailersend:MailerSend client initialized successfully
+INFO:mailersend:MailerSend client initialized successfully
+INFO:mailersend:MailerSend client initialized successfully
+INFO:mailersend:MailerSend client initialized successfully
+INFO:root:User: hi who are you?
+INFO:root:
+AI: I am a professional legal lawyer AI assistant, providing guidance and information on Indian law and legal procedures. I can assist with queries related to legal rights, documents, regulations, compliance, and court processes, as per the Indian legal framework.
+
+Relevant law citation: The Indian Constitution, Article 51A, emphasizes the importance of providing legal assistance and promoting legal awareness.
+
+Please feel free to ask your law-related questions, and I will provide a formal and professional response. 
+
+INFO:root:User: speed limit law for 4 wheelers
+INFO:root:
+AI: **Brief legal summary**: The speed limit for 4-wheelers in India is regulated by the Central Motor Vehicles Rules, 1989.
+
+**Relevant law citation**: Rule 115 of the Central Motor Vehicles Rules, 1989, read with Section 112 of the Motor Vehicles Act, 1988.
+
+**Explanation**: The speed limit for 4-wheelers varies depending on the type of vehicle and the location. Generally, the speed limit is 80 km/h on highways and 50 km/h on urban roads.
+
+**Practical legal steps**: Drivers must adhere to the specified speed limits to avoid penalties under the Motor Vehicles Act, 1988. 
+
+INFO:root:User: what if drivers dont adhere to speed limit what will happen according to the law
+INFO:root:
+AI: **Brief Legal Summary:** Non-adherence to speed limits by drivers is a punishable offense under the Indian law. 
+
+**Relevant Law Citation:** Section 112-114 of the Motor Vehicles Act, 1988.
+
+**Explanation:** As per the Motor Vehicles Act, 1988, every driver is required to adhere to the speed limits prescribed by the authorities. Failure to comply with the speed limits can lead to imposition of penalties.
+
+**Practical Legal Steps:** In case of non-adherence to speed limits, the driver may be issued a challan by the traffic police, and may be liable to pay a fine, which can range from Rs. 1,000 to Rs. 2,000, as per Section 112-114 of the Motor Vehicles Act, 1988. 
+
+INFO:mailersend:MailerSend client initialized successfully
+INFO:mailersend:MailerSend client initialized successfully
+INFO:mailersend:MailerSend client initialized successfully
+INFO:mailersend:MailerSend client initialized successfully
