@@ -96,7 +96,7 @@ def chat():
 
                 email = (
                     EmailBuilder()
-                    .from_email("info@test-q3enl6kdjp742vwr.mlsender.net", "AI Lawyer")
+                    .from_email("info@", "AI Lawyer")
                     .to_many([{"email": "bharath.98458@gmail.com", "name": "Recipient"}])
                     .subject("AI Lawyer Chat Logs")
                     .html(f"<pre>{log_content}</pre>")
